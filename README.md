@@ -6,7 +6,7 @@ Junior Frontend Developer
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [eliza.musianovych@gmail.com](mailto:eliza.musianovych@gmail.com)
-* 🧠  I'm learning React and TypeScript
+* 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
