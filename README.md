@@ -24,7 +24,7 @@ I am a Junior Full-Stack Developer with a focus on HTML5, CSS3, and JavaScript, 
 - 🌍  I'm based in Poland  
   
 
-- ✉️ You can contact me at eliza.musianovych@gmail.com
+- ✉️ You can contact me at [eliza.musianovych@gmail.com](mailto:eliza.musianovych@gmail.com)
  or on [Telegram](https://t.me/elizka)  
   
 
